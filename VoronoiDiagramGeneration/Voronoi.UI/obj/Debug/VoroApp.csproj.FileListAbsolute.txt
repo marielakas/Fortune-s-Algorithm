@@ -18,3 +18,4 @@ C:\Users\Mariela\Documents\Visual Studio 2012\Projects\VoronoiDiagramGeneration\
 C:\Users\Mariela\Documents\Visual Studio 2012\Projects\VoronoiDiagramGeneration\Voronoi.UI\obj\Debug\Voronoi.UI.pdb
 C:\Users\Mariela\Documents\Visual Studio 2012\Projects\VoronoiDiagramGeneration\Voronoi.UI\obj\Debug\XapCacheFile.xml
 C:\Users\Mariela\Documents\Visual Studio 2012\Projects\VoronoiDiagramGeneration\Voronoi.UI\obj\Debug\VoroApp.csprojResolveAssemblyReference.cache
+C:\Users\Mariela\Documents\Visual Studio 2012\Projects\VoronoiDiagramGeneration\Voronoi.UI\obj\Debug\StartScreen.g.cs

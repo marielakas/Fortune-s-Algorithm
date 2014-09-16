@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoroApp", "Voronoi.UI\VoroApp.csproj", "{4464242D-311C-420E-AAA8-4EC4D3CC921F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voronoi.Elements", "Voronoi.Elements\Voronoi.Elements.csproj", "{C385E4AF-89C5-4C17-92FF-BCF84AF612E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestVoronoi", "TestVoronoi\TestVoronoi.csproj", "{67E3D152-35FF-4808-9162-5EDE7AA9B3A1}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject", "ModelingProject\ModelingProject.modelproj", "{A724D480-D842-4FF2-8265-12F8A5721C8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +37,30 @@ Global
 		{4464242D-311C-420E-AAA8-4EC4D3CC921F}.Release|x86.ActiveCfg = Release|x86
 		{4464242D-311C-420E-AAA8-4EC4D3CC921F}.Release|x86.Build.0 = Release|x86
 		{4464242D-311C-420E-AAA8-4EC4D3CC921F}.Release|x86.Deploy.0 = Release|x86
+		{C385E4AF-89C5-4C17-92FF-BCF84AF612E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C385E4AF-89C5-4C17-92FF-BCF84AF612E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C385E4AF-89C5-4C17-92FF-BCF84AF612E8}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{C385E4AF-89C5-4C17-92FF-BCF84AF612E8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C385E4AF-89C5-4C17-92FF-BCF84AF612E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C385E4AF-89C5-4C17-92FF-BCF84AF612E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C385E4AF-89C5-4C17-92FF-BCF84AF612E8}.Release|ARM.ActiveCfg = Release|Any CPU
+		{C385E4AF-89C5-4C17-92FF-BCF84AF612E8}.Release|x86.ActiveCfg = Release|Any CPU
+		{67E3D152-35FF-4808-9162-5EDE7AA9B3A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E3D152-35FF-4808-9162-5EDE7AA9B3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E3D152-35FF-4808-9162-5EDE7AA9B3A1}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{67E3D152-35FF-4808-9162-5EDE7AA9B3A1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{67E3D152-35FF-4808-9162-5EDE7AA9B3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E3D152-35FF-4808-9162-5EDE7AA9B3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E3D152-35FF-4808-9162-5EDE7AA9B3A1}.Release|ARM.ActiveCfg = Release|Any CPU
+		{67E3D152-35FF-4808-9162-5EDE7AA9B3A1}.Release|x86.ActiveCfg = Release|Any CPU
+		{A724D480-D842-4FF2-8265-12F8A5721C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A724D480-D842-4FF2-8265-12F8A5721C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A724D480-D842-4FF2-8265-12F8A5721C8F}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{A724D480-D842-4FF2-8265-12F8A5721C8F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A724D480-D842-4FF2-8265-12F8A5721C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A724D480-D842-4FF2-8265-12F8A5721C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A724D480-D842-4FF2-8265-12F8A5721C8F}.Release|ARM.ActiveCfg = Release|Any CPU
+		{A724D480-D842-4FF2-8265-12F8A5721C8F}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

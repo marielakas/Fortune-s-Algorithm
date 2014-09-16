@@ -115,6 +115,9 @@
     <Compile Include="Libraries\ToolStackCRCLib.cs" />
     <Compile Include="Libraries\ToolStackPNGWriterLib.cs" />
     <Compile Include="Libraries\ToolStackPNGWriterWBext.cs" />
+    <Compile Include="StartScreen.xaml.cs">
+      <DependentUpon>StartScreen.xaml</DependentUpon>
+    </Compile>
     <Compile Include="VoronoiObject.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -127,6 +130,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
       <ExcludeFromStyleCop>True</ExcludeFromStyleCop>
+    </Page>
+    <Page Include="StartScreen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
